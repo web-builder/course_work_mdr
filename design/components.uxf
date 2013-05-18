@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<diagram program="umlet" version="12.0">
+  <zoom_level>10</zoom_level>
+  <element>
+    <type>com.umlet.element.custom.Database</type>
+    <coordinates>
+      <x>710</x>
+      <y>390</y>
+      <w>110</w>
+      <h>40</h>
+    </coordinates>
+    <panel_attributes>Configuration</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.umlet.element.custom.SimpleComponent</type>
+    <coordinates>
+      <x>210</x>
+      <y>130</y>
+      <w>190</w>
+      <h>70</h>
+    </coordinates>
+    <panel_attributes>XML Parser</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.umlet.element.custom.SimpleComponent</type>
+    <coordinates>
+      <x>610</x>
+      <y>130</y>
+      <w>190</w>
+      <h>70</h>
+    </coordinates>
+    <panel_attributes>ActionHandler</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.umlet.element.custom.SimpleComponent</type>
+    <coordinates>
+      <x>210</x>
+      <y>380</y>
+      <w>190</w>
+      <h>70</h>
+    </coordinates>
+    <panel_attributes>MathML Interpretator</panel_attributes>
+    <additional_attributes/>
+  </element>
+</diagram>
